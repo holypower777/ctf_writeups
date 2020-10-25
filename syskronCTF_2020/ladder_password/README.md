@@ -6,7 +6,7 @@ A BB engineer encoded her password in ladder logic. Each "r" can be either 0 or 
 
 Please decode the password to demonstrate that this technique of storing passwords is insecure.
 
-[Attached image](https://github.com/holypower777/ctf_writeups/syskronCTF_2020/ladder-password/ladder-password.png)
+[Attached image](https://github.com/holypower777/ctf_writeups/blob/main/syskronCTF_2020/ladder_password/ladder-password.png)
 
 ## Solution
 
