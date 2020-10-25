@@ -4,7 +4,7 @@
 
 One of my colleagues found a USB stick in the parking lot in front of our company. Fortunately he handed it over directly to us . The drive contains an SD card with just one file. Maybe it's no normal USB flash drive?
 
-[Attached bin](https://github.com/holypower777/ctf_writeups/syskronCTF_2020/HID/inject.bin)
+[Attached bin](https://github.com/holypower777/ctf_writeups/blob/main/syskronCTF_2020/HID/inject.bin)
 
 ## Solution
 
