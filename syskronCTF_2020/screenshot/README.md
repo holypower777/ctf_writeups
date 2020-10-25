@@ -6,7 +6,7 @@ After a hacking attack, we have fetched some suspicious e-mails sent from within
 
 What could that be?
 
-[Attached image](https://github.com/holypower777/ctf_writeups/syskronCTF_2020/screenshot/Screenshot_2020-05-19_at_11.38.08_AM.png)
+[Attached image](https://github.com/holypower777/ctf_writeups/blob/main/syskronCTF_2020/screenshot/Screenshot_2020-05-19_at_11.38.08_AM.png)
 
 ## Solution
 
